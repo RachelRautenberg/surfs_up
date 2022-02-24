@@ -20,3 +20,4 @@ Given the current analysis, I would say that the investors should feel quite com
 Additional queries that could be of interest:
   * Query of each month to view statistically the variation. While this analysis considers the greatest months of variance, there may be fluctuations month to month that would be great to include for consideration.
   * Query of precipitation, also by month, similar to what was completed during the module, so that temperature and precipitation could be compared to understand if that would be a potential factor during the cooler months or in general. 
+  * Additionally, the data may not be included in this specific module and work, but it would be interesting to view data that is related to beach popularity.  Maybe there is a specific beach that is more known for higher traffic or tourism. This would be helpful in considering final location at a granular level rather than at an overall island level. 
