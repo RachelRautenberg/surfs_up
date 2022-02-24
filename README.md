@@ -7,7 +7,7 @@ With the desire to soak up all of the sun and enjoy a life of surfing and ice cr
 ### Results
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 
-![june_tobs}(https://github.com/RachelRautenberg/surfs_up/blob/main/Module_Resources/june_tobs_stats.PNG) ![dec_tobs(https://github.com/RachelRautenberg/surfs_up/blob/main/Module_Resources/dec_tobs_stats.PNG)
+![june_tobs](https://github.com/RachelRautenberg/surfs_up/blob/main/Module_Resources/june_tobs_stats.PNG) ![dec_tobs](https://github.com/RachelRautenberg/surfs_up/blob/main/Module_Resources/dec_tobs_stats.PNG)
 
 
 ### Summary
